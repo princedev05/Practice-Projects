@@ -1,0 +1,14 @@
+.Board-container{
+  margin: 20px;
+}
+.Board-row{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.Square{
+  margin: 20px;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
